@@ -1,0 +1,12 @@
+numpy == 1.17
+opencv-python >= 4.1
+torch==1.11
+torchvision==0.12
+torchtext==0.12
+torchaudio==0.11
+torchvision
+matplotlib
+pycocotools
+tqdm
+pillow
+tensorboard >= 1.14
